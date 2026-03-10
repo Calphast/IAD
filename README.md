@@ -9,7 +9,7 @@ World Development Indicators** (https://cmustatistics.github.io/data-repository/
     internet usage and political stability
 
 The goal is to better understand how **economic classification and
-political conditions relate to internet adoption worldwide**.
+political conditions relate to internet adoption worldwide**. Plans to integrate different datasets and study other correlations are underway.
 
 # Dataset
 
