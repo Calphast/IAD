@@ -1,6 +1,6 @@
 # Internet Usage and Political Stability Analysis
 
-This project analyzes global internet usage patterns using **World Bank's World Development Indicators** (https://cmustatistics.github.io/data-repository/politics/world-bank.html). The analysis focuses on three statistical and machine learning approaches:
+(Will update momentarily) This project analyzes global internet usage patterns using **World Bank's World Development Indicators** (https://cmustatistics.github.io/data-repository/politics/world-bank.html). The analysis focuses on three statistical and machine learning approaches:
 
 - **ANOVA** to determine whether internet usage differs across income groups
 - **Linear Regression** to explore the relationship between internet usage and political stability
